@@ -1,6 +1,6 @@
 [![MasterHead](https://analyticsindiamag.com/wp-content/uploads/2020/01/top-10-DS-projects-1200x675.png)]
 <h1 align="center">Hi 👋, I'm RISHIKESH SHANKAR PATIL</h1>
-<h3 align="center">A passionate about ** DATA SCIENTIST **.</h3>
+<h3 align="center">A passionate about ** DATA SCIENCE AND MLOPS **.</h3>
 <img align="right" alt="Coding" width="400" src="https://aryng.com/assets/img/ani2.gif">
 
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rishikesh799/ML_projects](https://github.com/Rishikesh799/ML_projects)
 
-- 💬 Ask me about **Python ,Data Science ,Machine learning**
+- 💬 Ask me about **Python ,Pyspark ,Data Science ,Machine learning**
 
 - 📫 How to reach me **patilrishikesh644@gmail.com**
 
